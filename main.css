@@ -1,0 +1,33 @@
+.card {
+    height: 30rem;
+    width: 22rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card img {
+    height: 18rem;
+}
+
+.list-view {
+    width: 110%;
+    display: flex;
+    justify-content:center;
+}
+
+.detail-view {
+    display: flex;
+    justify-content:center;
+}
+
+.header {
+    background-color: rgb(186 255 0 / 83%);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.pic {
+    height: 30rem;
+    width: 40rem;
+}
